@@ -3,23 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "musician.js",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CrescenceK/Teaching-HEIGVD-RES-2019-Labo-Orchestra.git"
-  },
-  "author": "crescence Yimnaing",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CrescenceK/Teaching-HEIGVD-RES-2019-Labo-Orchestra/issues"
-  },
-  "homepage": "https://github.com/CrescenceK/Teaching-HEIGVD-RES-2019-Labo-Orchestra#readme",
-  "dependencies": {
-    "async": "^2.6.2",
-    "chai": "^4.2.0",
-    "net": "^1.0.2",
-    "uuid": "^3.3.2"
-  }
+  "author": "",
+  "license": "ISC"
 }
